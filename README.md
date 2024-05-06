@@ -6,9 +6,7 @@ This program serves as a simple manager for a Tic-Tac-Toe league. It allows user
 - Create a new project using your preferred Integrated Development Environment (IDE).
 - Copy the source code, player.txt and tictactoe.txt files into your project.
 - Compile the source code using a C++ compiler.
-- Run the executable file generated.
-- Follow the on-screen menu instructions to navigate through the program.
-
+  
 ## Menu options
 1. Show table: Displays the league standings sorted in descending order based on points earned.
 2. Show results: Displays the results of matches available in the "tictactoe.txt" file.
