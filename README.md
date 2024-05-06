@@ -3,6 +3,8 @@ This program serves as a simple manager for a Tic-Tac-Toe league. It allows user
 
 ## How to use  
 - Clone this repository to your local machine.
+- Create a new project using your preferred Integrated Development Environment (IDE) or text editor.
+- Copy the source code, player.txt and tictactoe.txt files into your project.
 - Compile the source code using a C++ compiler.
 - Run the executable file generated.
 - Follow the on-screen menu instructions to navigate through the program.
